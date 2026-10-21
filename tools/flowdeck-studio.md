@@ -2,9 +2,10 @@
 slug: "flowdeck-studio"
 name: "FlowDeck Studio"
 description: "Native macOS workspace where coding agents build, run, test, and verify iOS and macOS apps in existing Xcode projects"
-seoTitle: "FlowDeck Studio: Coding Agents That Build and Test iOS Apps"
-seoDescription: "See how FlowDeck Studio lets Claude Code, Codex, and other coding agents build, run, tap through, and test iOS and macOS apps in isolated worktrees and simulators."
-agentSummary: "FlowDeck Studio gives coding agents the Apple tooling they need to verify their own work: agents build and run iOS and macOS apps, drive the simulator through tap, type, and scroll automation, read logs, and run tests, with each session isolated in its own Git worktree. It uses the developer's existing agent subscriptions and requires Apple Silicon and macOS 26 or later."
+seoTitle: "FlowDeck Studio: Build and Test Apple Apps with Agents"
+seoDescription: "Inspect FlowDeck Studio's coding-agent workflow for Xcode projects: build and test Apple apps, automate simulators, and isolate sessions in Git worktrees."
+reviewedBy: "foo-bender"
+reviewedAt: "2026-10-21"
 category: "agent-testing-qa"
 tags:
   - "ios"
